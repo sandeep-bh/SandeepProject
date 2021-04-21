@@ -1,0 +1,2 @@
+emp id = 12345
+emp name = sandeep
